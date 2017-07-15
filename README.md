@@ -1,0 +1,2 @@
+# AotianServerVersion
+Get Server Info
